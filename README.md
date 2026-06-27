@@ -9,6 +9,12 @@
 
 This project was curated and built specifically for the **SBI @ Global Fintech Fest Hackathon 2026**. FENOME showcases next-generation security and proactive threat mitigation strategies engineered to protect high-volume banking systems and transactional operations.
 
+### Team Members
+*   **Gurarpit Singh**
+*   **Mehardeep Singh**
+*   **Saksham Bhutani**
+*   **Anurag Arora**
+
 ---
 
 ## Overview
